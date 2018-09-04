@@ -1,5 +1,7 @@
 # csb2csd
 把CocosStudio输出的csb文件转换成可以继续编辑的csd源文件
+http://forum.cocos.com/t/cocosstudio-csb-csd/58190
+https://github.com/DavidFeng/csb2csd.git
 
 
 # 使用说明
