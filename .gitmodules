@@ -1,3 +1,6 @@
 [submodule "buffer"]
 	path = buffer
 	url = git@github.com:DavidFeng/lua-flatbuffers.git
+[submodule "flabuffers"]
+	path = flabuffers
+	url = https://github.com/google/flatbuffers.git
