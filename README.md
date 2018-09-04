@@ -9,6 +9,8 @@ https://github.com/DavidFeng/csb2csd.git
 ```sh
 lua lily.lua test/TestAnimation.csb
 ./lily.lua 1.csb 2.csb ...
+
+python getFiles.py test   -----还没有对csb文件格式是否正确进行判断
 ```
 
 
